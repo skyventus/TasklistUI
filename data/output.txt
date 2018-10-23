@@ -1,0 +1,7 @@
+T | 1 | read book
+D | 1 | return book | June 6th
+T | 1 | test 7
+T | 1 | test 6
+T | 1 | test 5
+T | 0 | submit report
+T | 0 | submit diagram
